@@ -10,4 +10,5 @@
 
 -não tenho curiosidades sobre mim, acho que eu nem me conheço há esse ponto. 
 
-![GATO DESCONFIADO](https://tenor.com/pt-BR/view/cat-cats-cat-meme-meme-meme-cat-gif-14470917232397934693)
+![GATO DESCONFIADO](https://media1.tenor.com/m/yNMGjXsoYGUAAAAd/cat-cats.gif)
+
