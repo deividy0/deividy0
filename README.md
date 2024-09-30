@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**deividy0/deividy0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ola**
 
 -atualmente estou trabalhando
 
@@ -12,3 +9,5 @@
 -estou procurando ajuda em aprimorar meu conhecimento em computação
 
 -não tenho curiosidades sobre mim, acho que eu nem me conheço há esse ponto. 
+
+![GATO DESCONFIADO](https://tenor.com/pt-BR/view/cat-cats-cat-meme-meme-meme-cat-gif-14470917232397934693)
